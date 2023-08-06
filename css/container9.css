@@ -1,0 +1,21 @@
+.container9 {
+  display: flex;
+  justify-content: space-around;
+  width: 1336px;
+  height: 290px;
+  margin-top: 50px;
+}
+
+.container9-1 img {
+  width: 644px;
+  height: 257px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.container9-2 img {
+  width: 644px;
+  height: 257px;
+  border-radius: 20px;
+  cursor: pointer;
+}

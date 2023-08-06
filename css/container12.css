@@ -1,0 +1,138 @@
+.container12 {
+  padding: 0px 20px;
+}
+
+.container12-2 {
+  padding: 30px 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.container12-2 img {
+  width: 114px;
+  height: 33px;
+}
+
+.container12-2 button {
+  width: 138px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: rgb(107, 107, 107);
+  background-color: white;
+  border-color: rgb(189, 189, 189);
+  border-style: solid;
+  border-radius: 7px;
+  border-width: 1px;
+  cursor: pointer;
+}
+
+.container12-2 button img {
+  width: 20px;
+  height: 20px;
+}
+
+.container12-3 p {
+  font-size: 13px;
+}
+
+.container12-4 {
+  display: flex;
+  margin-top: 20px;
+}
+
+.container12-4-1 {
+  display: flex;
+  flex-direction: column;
+  width: 257px;
+  height: 103;
+  justify-content: center;
+  align-items: center;
+}
+
+.container12-4-1 img {
+  width: 56px;
+  height: 56px;
+}
+
+.container12-4-1 p {
+  color: #3f4064;
+  font-size: 14px;
+}
+
+.container12-4-2 {
+  display: flex;
+  flex-direction: column;
+  width: 257px;
+  height: 103;
+  justify-content: center;
+  align-items: center;
+}
+
+.container12-4-2 img {
+  width: 56px;
+  height: 56px;
+}
+
+.container12-4-2 p {
+  color: #3f4064;
+  font-size: 14px;
+}
+
+.container12-4-3 {
+  display: flex;
+  flex-direction: column;
+  width: 257px;
+  height: 103;
+  justify-content: center;
+  align-items: center;
+}
+
+.container12-4-3 img {
+  width: 56px;
+  height: 56px;
+}
+
+.container12-4-3 p {
+  color: #3f4064;
+  font-size: 14px;
+}
+
+.container12-4-4 {
+  display: flex;
+  flex-direction: column;
+  width: 257px;
+  height: 103;
+  justify-content: center;
+  align-items: center;
+}
+
+.container12-4-4 img {
+  width: 56px;
+  height: 56px;
+}
+
+.container12-4-4 p {
+  color: #3f4064;
+  font-size: 14px;
+}
+
+.container12-4-5 {
+  display: flex;
+  flex-direction: column;
+  width: 257px;
+  height: 103;
+  justify-content: center;
+  align-items: center;
+}
+
+.container12-4-5 img {
+  width: 56px;
+  height: 56px;
+}
+
+.container12-4-5 p {
+  color: #3f4064;
+  font-size: 14px;
+}

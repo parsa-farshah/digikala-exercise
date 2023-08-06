@@ -1,0 +1,216 @@
+.img-row {
+  position: relative;
+  width: 100%;
+  margin: 0;
+}
+
+.container3 img {
+  width: 100%;
+  height: 350px;
+  position: relative;
+}
+
+.container3 .injast-button {
+  position: absolute;
+  bottom: 90px;
+  right: 250px;
+}
+
+.container3 .injast-button button {
+  padding: 3px 40px;
+  border-radius: 20px;
+  border: none;
+  background-color: #fefcd4;
+  font-size: 22px;
+  color: #3b3b2c;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.injast-button button:hover {
+  background-color: #eceac4;
+}
+
+.container4 {
+  width: 100%;
+  padding: 0px;
+}
+
+.suggest {
+  display: flex;
+  width: 100%;
+  height: 150px;
+  align-items: center;
+  padding: 0;
+  justify-content: space-around;
+}
+
+.digijet {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 67px;
+}
+
+.digijet img {
+  width: 52px;
+  height: 52px;
+  cursor: pointer;
+}
+
+.digijet p {
+  font-size: 12px;
+  color: #28272c;
+  padding-top: 3px;
+  opacity: 200px;
+  cursor: pointer;
+}
+
+.haraj-style {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 67px;
+}
+
+.haraj-style img {
+  width: 52px;
+  height: 52px;
+  cursor: pointer;
+}
+
+.haraj-style p {
+  font-size: 12px;
+  color: #28272c;
+  padding-top: 3px;
+  opacity: 200px;
+  cursor: pointer;
+}
+
+.khardi-aghsati {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 67px;
+}
+
+.khardi-aghsati img {
+  width: 52px;
+  height: 52px;
+  cursor: pointer;
+}
+
+.khardi-aghsati p {
+  font-size: 12px;
+  color: #28272c;
+  padding-top: 3px;
+  opacity: 200px;
+  cursor: pointer;
+}
+
+.kharide-sazmani {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100px;
+}
+
+.kharide-sazmani img {
+  width: 52px;
+  height: 52px;
+  cursor: pointer;
+}
+
+.kharide-sazmani p {
+  font-size: 12px;
+  color: #28272c;
+  padding-top: 3px;
+  opacity: 200px;
+  cursor: pointer;
+}
+
+.kharide-saremah {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 67px;
+}
+
+.kharide-saremah img {
+  width: 52px;
+  height: 52px;
+  cursor: pointer;
+}
+
+.kharide-saremah p {
+  font-size: 12px;
+  color: #28272c;
+  padding-top: 3px;
+  opacity: 200px;
+  cursor: pointer;
+}
+
+.ersale-emrooz {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 67px;
+}
+
+.ersale-emrooz img {
+  width: 52px;
+  height: 52px;
+  cursor: pointer;
+}
+
+.ersale-emrooz p {
+  font-size: 12px;
+  color: #28272c;
+  padding-top: 3px;
+  opacity: 200px;
+  cursor: pointer;
+}
+
+.game-net {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 60px;
+}
+
+.game-net img {
+  width: 52px;
+  height: 52px;
+  cursor: pointer;
+}
+
+.game-net p {
+  font-size: 12px;
+  color: #28272c;
+  padding-top: 3px;
+  opacity: 200px;
+  cursor: pointer;
+}
+
+.more {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 60px;
+}
+
+.more img {
+  width: 52px;
+  height: 52px;
+  background-color: #d4d4d4;
+  border-radius: 60px;
+  cursor: pointer;
+}
+
+.more p {
+  font-size: 12px;
+  color: #28272c;
+  padding-top: 3px;
+  opacity: 200px;
+  cursor: pointer;
+}

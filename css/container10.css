@@ -1,0 +1,88 @@
+.container10 {
+  display: flex;
+  justify-content: center;
+}
+
+.container10-0 {
+  width: 1304px;
+  height: 220px;
+  background-color: rgb(255, 255, 255);
+  border-width: 0.5px;
+  border-color: #e0e0e0;
+  border-style: solid;
+  border-width: 0.5px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.container10-1 {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.container10-1 h2 {
+  color: #080a38;
+}
+
+.container10-2 {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.container10-img-1 img {
+  width: 110px;
+  height: 110px;
+  padding: 4px 16px;
+}
+
+.container10-img-2 img {
+  width: 110px;
+  height: 110px;
+  padding: 4px 16px;
+}
+
+.container10-img-3 img {
+  width: 110px;
+  height: 110px;
+  padding: 4px 16px;
+}
+
+.container10-img-4 img {
+  width: 110px;
+  height: 40px;
+  padding: 4px 16px;
+}
+
+.container10-img-5 img {
+  width: 110px;
+  height: 110px;
+  padding: 4px 16px;
+}
+
+.container10-img-6 img {
+  width: 110px;
+  height: 110px;
+  padding: 4px 16px;
+}
+
+.container10-img-7 img {
+  width: 110px;
+  height: 110px;
+  padding: 4px 16px;
+}
+
+.container10-img-8 img {
+  width: 110px;
+  height: 70px;
+  padding: 4px 16px;
+}
+
+.container10-img-9 img {
+  width: 110px;
+  height: 35px;
+  padding: 4px 16px;
+}
